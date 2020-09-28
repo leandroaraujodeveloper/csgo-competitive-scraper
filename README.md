@@ -20,8 +20,8 @@ Exemplo de geração de arquivo de dados da hltv
 ## Objetivos
 
   - [x] Iniciar projeto com [Scrapy](https://www.scrapy.org)
-  - [ ] Pegar dados do site [HLTV](https://www.hltv.org/)
-    - [ ] Dados de times
+  - [x] Pegar dados do site [HLTV](https://www.hltv.org/)
+    - [x] Dados de times
     - [ ] Dados de partidas
     - [ ] Dados do ranking
     - [ ] Dados de jogadores
