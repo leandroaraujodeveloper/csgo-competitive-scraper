@@ -4,7 +4,7 @@ from scrapy.loader import ItemLoader
 from csgo_scraper.items import TeamItem
 
 
-class HltvSpiderSpider(scrapy.Spider):
+class HLTVSpider(scrapy.Spider):
     name = 'hltv_spider'
     allowed_domains = ['https://www.hltv.org']
     start_urls = ['https://www.hltv.org/ranking/teams/']
