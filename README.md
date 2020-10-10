@@ -17,6 +17,10 @@ Exemplo de geração de arquivo de dados da hltv
 
     scrapy crawl hltv_spider -o data/hltv_teams.json
 
+Exemplo de geração de arquivo de dados da liquidpedia
+
+    scrapy crawl liquidpedia_spider -o data/liquidpedia_teams.json
+
 ## Objetivos
 
   - [x] Iniciar projeto com [Scrapy](https://www.scrapy.org)
