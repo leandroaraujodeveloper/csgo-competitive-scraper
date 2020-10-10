@@ -25,8 +25,8 @@ Exemplo de geração de arquivo de dados da hltv
     - [ ] Dados de partidas
     - [ ] Dados do ranking
     - [ ] Dados de jogadores
-  - [ ] Pegar dados do site [Liquidpedia](https://liquipedia.net/counterstrike/Main_Page)
-    - [ ] Dados de times
+  - [x] Pegar dados do site [Liquidpedia](https://liquipedia.net/counterstrike/Main_Page)
+    - [x] Dados de times
     - [ ] Dados de partidas
     - [ ] Dados do ranking
     - [ ] Dados de jogadores
